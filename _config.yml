@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Marcell Roos # the main title
+title: Marcell Roos Blog # the main title
 
 tagline: Hey, I am a developer, with work ranging from IoT to Automations. I want to give back to the community, ranging from some information, guides, and repositories. Keep up to date here! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A tech orientated blog with some other random babblings
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
