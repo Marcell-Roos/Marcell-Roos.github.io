@@ -7,7 +7,7 @@ author: marcell_roos
 description: I would like to thing of myself as a fairly experienced developer, with much to share. Curious to learn?
 
 image:
-  path: assets\img\Peanut At Desk.png
+  path: /assets/img/Peanut At Desk.png
   width: 700
   height: 400
 ---
